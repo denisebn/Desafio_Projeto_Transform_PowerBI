@@ -1,7 +1,9 @@
-# Desafio_Projeto_Transform_PowerBI
-Desafio de projeto 4 do Bootcamp Santander 2023 - Processando e Transformando Dados com Power BI usando banco de dados Azure
+# Desafio de Projeto - Processando e Transformando Dados com Power BI usando banco de dados Azure
+Desafio de projeto 4 do Bootcamp Santander 2023.
 
-Passo a passo das etapas de transformação realizadas:
+Proposta: Usando um banco de dados na Azure, conectar no Power BI e realizar diversas modificações e análises sugeridas no documento anexado nesse repósitório.
+
+Abaixo encontra-se o passo a passo das etapas de transformação realizadas:
 
 1- Cabeçalhos e tipos de dados ok.
 
@@ -45,6 +47,7 @@ Para ir além:
 21- Um dado simples foi mostrar o nome dos colaboradores que possuem dependentes, mesclando a coluna Essn na tabela dependent com a mesma coluna na tabela employee e somente recuperar a coluna Fname.
 
 Um relatório foi gerado sobre a análise de dados dos projetos e encontra-se publicado no Power BI Web [link](https://app.powerbi.com/groups/me/reports/7b678961-2d56-4599-bc37-64ca80231c92/ReportSection?experience=power-bi).
-O arquivo power BI contendo todas as análises e tabelas descritas acima encontra-se nesse (repositório).
+
+O arquivo power BI contendo todas as análises e tabelas descritas acima encontra-se nesse repositório (Project Data Transform PowerBI Azure_company DN.pbix).
 
 Qualquer dúvida é só entrar em contato por [email](denisebn@gmail.com).
