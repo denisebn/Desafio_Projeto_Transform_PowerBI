@@ -1,7 +1,7 @@
 # Desafio de Projeto - Processando e Transformando Dados com Power BI usando banco de dados Azure
 Desafio de projeto 4 do Bootcamp Santander 2023.
 
-Proposta: Usando um banco de dados na Azure, conectar no Power BI e realizar diversas modificações e análises sugeridas no documento anexado nesse repósitório.
+Proposta: Usando um banco de dados na Azure, conectar no Power BI e realizar diversas modificações e análises sugeridas no [documento anexado](https://github.com/denisebn/Desafio_Projeto_Transform_PowerBI/blob/45e6abfe96653b4efc4e8e9dd3de655b75d8d974/Desafio%20de%20Projeto%20-%20Processando%20e%20Transformando%20Dados%20com%20Power%20BI%20-%20Instru%C3%A7%C3%B5es.docx) nesse repósitório.
 
 Abaixo encontra-se o passo a passo das etapas de transformação realizadas:
 
@@ -48,6 +48,6 @@ Para ir além:
 
 Um relatório foi gerado sobre a análise de dados dos projetos e encontra-se publicado no Power BI Web [link](https://app.powerbi.com/groups/me/reports/7b678961-2d56-4599-bc37-64ca80231c92/ReportSection?experience=power-bi).
 
-O arquivo power BI contendo todas as análises e tabelas descritas acima encontra-se nesse repositório (Project Data Transform PowerBI Azure_company DN.pbix).
+O arquivo power BI contendo todas as análises e tabelas descritas acima encontra-se nesse repositório: [Project Data Transform PowerBI Azure_company DN.pbix](https://github.com/denisebn/Desafio_Projeto_Transform_PowerBI/blob/45e6abfe96653b4efc4e8e9dd3de655b75d8d974/Project%20Data%20Transform%20PowerBI%20Azure_company%20DN.pbix).
 
 Qualquer dúvida é só entrar em contato por [email](denisebn@gmail.com).
